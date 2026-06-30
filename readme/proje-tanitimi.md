@@ -1,6 +1,4 @@
-# 1. Proje Tanıtımı
-
-## 1. Proje Tanıtımı
+# Proje Tanıtımı
 
 ### Projenin Amacı
 

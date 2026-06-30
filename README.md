@@ -31,14 +31,6 @@ layout:
 
 &#x20;
 
-| **Katman** | **Teknoloji** | **Görevi**                                                          |
-| ---------- | ------------- | ------------------------------------------------------------------- |
-| Frontend   | Angular       | Modüler, reaktif ve hızlı kullanıcı arayüzü yönetimi.               |
-| Backend    | Node.js       | Ölçeklenebilir sunucu tarafı mantığı ve API yönetimi.               |
-| Veritabanı | PostgreSQL    | Kelime verilerinin güvenilir ve yapılandırılmış şekilde saklanması. |
-
-&#x20;
-
 &#x20;
 
 {% columns %}

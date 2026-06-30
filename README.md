@@ -6,9 +6,9 @@ icon: house
 layout:
   width: wide
   title:
-    visible: true
+    visible: false
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: false
   outline:
@@ -18,9 +18,9 @@ layout:
   metadata:
     visible: false
   tags:
-    visible: true
+    visible: false
   actions:
-    visible: true
+    visible: false
 ---
 
 # İngilizce Öğrenme Uygulaması

@@ -1,4 +1,4 @@
-# 11.Hafıza Oyunu
+# Hafıza Oyunu
 
 #### Genel Bilgi
 
@@ -72,4 +72,4 @@ Bu mekanizma, sürekli tekrar ve aktif öğrenme prensibine dayanır.
 
 <figure><img src="../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
